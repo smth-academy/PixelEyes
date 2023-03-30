@@ -1,0 +1,23 @@
+{
+  "name": "pixeleyes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^19.8.0",
+    "readline": "^1.3.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0"
+  }
+}
